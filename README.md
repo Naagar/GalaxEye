@@ -18,3 +18,10 @@ An algorithm that takes a .jpg image of an arbitrary size with 3 channels (Red, 
        Step-4: chceck the threshold
                if near to zero (dark) -> Night
                  far from zero (bright) -> Day
+Run experiment: 
+
+    python galaxeye.py 
+    
+or open google colab notebook
+
+      GalaxEye.ipynb
