@@ -1,4 +1,4 @@
-# Sandeep_Nagar_GalaxEye
+#GalaxEye
 An algorithm that takes a .jpg image of an arbitrary size with 3 channels (Red, Green, Blue) and returns a string with either of the two values: “Day” or “Night”.
 
 - We know in black and white images (night images, true for most cases), the difference between pixels' RGB values is near to zero.
